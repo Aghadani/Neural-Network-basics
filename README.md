@@ -84,7 +84,6 @@ Categorical Crossentropy Loss
         pass
 ```
 
----
 
 ### 🧠 2. Trainer Class
 ```python
