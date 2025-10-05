@@ -4,8 +4,6 @@
 This project implements a **complete neural network from scratch** using only **NumPy** to classify handwritten digits from the famous **MNIST-like digits dataset**.  
 The neural network demonstrates **forward propagation**, **backpropagation**, and **multiple activation functions**, showcasing the **core mechanics of deep learning** — without relying on frameworks like TensorFlow or PyTorch.
 
-![Neural Network Visualization](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=Neural+Network+From+Scratch)
-![Training Loss Curves](https://via.placeholder.com/800x400/2196F3/FFFFFF?text=Training+Loss+Curves)
 
 ---
 
