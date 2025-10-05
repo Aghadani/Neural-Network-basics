@@ -1,4 +1,4 @@
-# 🧠 Neural Network from Scratch — Handwritten Digit Recognition
+# 🧠 Neural Network from Scratch + Pytorch
 
 ## 📋 Project Overview
 This project implements a **complete neural network from scratch** using only **NumPy** to classify handwritten digits from the famous **MNIST-like digits dataset**.  
