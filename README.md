@@ -222,5 +222,7 @@ sns.set_style("whitegrid")
 ---
 
 ## 🏁 Conclusion
-This project demonstrates how to build and train a neural network from scratch using only NumPy.
+This project demonstrates how to build and train a neural network from scratch using only NumPy. <br>
 It provides deep insight into the mathematics and mechanics of neural networks, making it an excellent educational project for anyone learning Deep Learning fundamentals.
+
+---
